@@ -1,2 +1,4 @@
 # agritrial-insight-tool
-For analysis
+A data visualization and reporting app for agricultural field trial analysis.
+
+
