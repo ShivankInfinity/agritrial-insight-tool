@@ -32,6 +32,25 @@ Try the app using the included `sample_data.csv`.
 
 Never commit your real `mail.env` with passwords to the repo.
 
+## How to set up email sending
+
+1. Copy `Sample mail.env` to a new file called `mail.env`
+2. Fill in your email and app password.
+   - Example:
+     ```
+     EMAIL_USER=your_email@gmail.com
+     EMAIL_PASS=your_app_password
+     ```
+3. **Never share your real `mail.env` or app password publicly.**
+
+(See README demo block from earlier message for full getting started steps.)
+
+---
+
+**You’re 100% ready to share this app as a safe, open-source tool.**  
+If you want deployment help (Streamlit Cloud, Heroku, etc), just ask!  
+If you want a custom README, I can make it now.
+
 ## Contact
 
 For help, open an issue or contact the developer.
