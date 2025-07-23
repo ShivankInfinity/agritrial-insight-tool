@@ -1,0 +1,7 @@
+Plot ID,Hybrid,Location,Trial Type,Biomass (g),Root Score (1-10),Emergence (%),Canopy Score (1-5),Notes
+PLOT_001,HYB-A,Field_1,Biomass Trial,120,8.5,91.2,4.5,Excellent emergence
+PLOT_002,HYB-B,Field_2,Soy Canopy,140,9.0,87.5,4.0,Uniform plants
+PLOT_003,HYB-C,Field_1,Root Mapping,135,8.0,88.9,4.2,Some missing plants
+PLOT_004,HYB-D,Field_3,Biomass Trial,180,9.5,95.1,5.0,High yield
+PLOT_005,HYB-A,Field_2,Soy Canopy,160,7.5,89.0,4.1,No issues
+PLOT_006,HYB-B,Field_3,Root Mapping,155,8.7,85.6,4.3,Moderate lodging
